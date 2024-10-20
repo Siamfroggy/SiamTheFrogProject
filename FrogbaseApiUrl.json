@@ -1,0 +1,18 @@
+{
+  "pixelApi": {
+    "url": "https://api.pixel.com/v1/images/search",
+    "apikey": "DQDIImRX5dY99lv9JdCw9VFZ7b8T2OzqPlB8wxWRY7OCdcnI45QTtsZa"
+  },
+  "animeHotApi": {
+    "url": "https://api.waifu.pics/sfw/waifu"
+  },
+  "animeInfoApi": {
+    "url": "https://kitsu.io/api/edge/characters"
+  },
+  "mageApi": {
+    "url": "https://www.samirxpikachu.run.place/mageDef"
+  },
+  "genApi": {
+    "url": "https://team-calyx.onrender.com/gen"
+  }
+}
