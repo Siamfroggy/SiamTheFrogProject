@@ -4,7 +4,7 @@
     "apikey": "DQDIImRX5dY99lv9JdCw9VFZ7b8T2OzqPlB8wxWRY7OCdcnI45QTtsZa"
   },
   "animeHotApi": {
-    "url": ""
+    "url": "https://api.waifu.pics/sfw/waifu"
   },
   "animeInfoApi": {
     "url": "https://kitsu.io/api/edge/characters"
